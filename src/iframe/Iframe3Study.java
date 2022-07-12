@@ -40,6 +40,7 @@ public class Iframe3Study {
 		//driver.switchTo().frame("Frame2");
 		String text3 = driver.findElement(By.partialLinkText("Cate")).getText();
 		System.out.println(text3);
+		System.out.println("good morning");
 		
 		
 	
